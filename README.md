@@ -1,7 +1,7 @@
 
-#Simple Python calculator.
+# Simple Python calculator.
 
-##Simple demo to show you my python skills.
+## Simple demo to show you my python skills.
 
 This is just tier-1; more levels on the way.
 
